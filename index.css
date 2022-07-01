@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+  background-color: rgb(201, 249, 129);
+}
+article{
+    height: 100%;
+     margin: 3%; 
+     
+}
+header
+{
+    text-align: center;
+    background-color: hwb(60 56% 0%);
+    height:4rem;
+
+}
+.inline
+{
+    display: inline;
+}
+.block
+{
+    display: block;
+}
+.inline-block
+{
+    display: inline-block;
+    display: inline-table;
+}
+.section-width
+{
+  width: 30%;
+}
+.section-height
+{
+    height: 70vh;
+}
+.bgcolor
+{
+    background-color:lightgoldenrodyellow;
+    
+}
+.p{
+    padding: 1rem;
+}
+section{
+    margin: 0.2rem;
+}
+.button-first-box
+{
+    margin-left: 0.5rem;
+}
